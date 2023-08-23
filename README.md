@@ -7,4 +7,3 @@ Feel free to modify and customize this website to fit your needs. You can update
 # Contributing
 
 Contributions are welcome! If you find any issues or would like to add new features, please feel free to submit a pull request.
----
